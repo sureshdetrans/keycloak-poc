@@ -1,0 +1,5 @@
+index:
+  path: /api/v1/test
+  controller: APIBundle\Controller\TestAPIController::index
+  methods: [GET]
+
